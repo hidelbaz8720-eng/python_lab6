@@ -1,0 +1,23 @@
+=== Rapport des notes ===
+Nombre d'étudiants : 11
+Notes originales : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Notes après bonus : [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+les trois bonus  Notes  : [10, 9, 8]
+Moyenne initiale : 5.00
+Moyenne après bonus : 6.00
+Notes ≥ 12 : [] (soit 0 étudiants)
+notes rattraper sont : : [9, 10] (soit 0 étudiants)
+notes echec sont : [0, 1, 2, 3, 4, 5, 6, 7, 8] (soit 0 étudiants)
+Détails par étudiant :
+notes_normalisees est  : [0.0, 5.0, 10.0, 15.0, 20.0, 25.0, 30.0, 35.0, 40.0, 45.0, 50.0]
+  Étudiant 01 — note  0.00 → bonus  1.00
+  Étudiant 02 — note  1.00 → bonus  2.00
+  Étudiant 03 — note  2.00 → bonus  3.00
+  Étudiant 04 — note  3.00 → bonus  4.00
+  Étudiant 05 — note  4.00 → bonus  5.00
+  Étudiant 06 — note  5.00 → bonus  6.00
+  Étudiant 07 — note  6.00 → bonus  7.00
+  Étudiant 08 — note  7.00 → bonus  8.00
+  Étudiant 09 — note  8.00 → bonus  9.00
+  Étudiant 10 — note  9.00 → bonus 10.00
+  Étudiant 11 — note 10.00 → bonus 11.00
